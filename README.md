@@ -31,3 +31,4 @@ We would like to focus on incorporating the UIPath API directly into the website
 Here is a YouTube video that shows a demo: https://youtu.be/H_j5QMsm1-w
 
 Here is a screen shot of out web application:
+![](website screenshot.png)
