@@ -3,6 +3,7 @@
 Languages Used: HTML, CSS, JavaScript
 <br>
 Tools: Handlebars.js, Bootstrap, Sheets.js, UI Path
+Team Members: Angel Shah, Zayd Adnan, Fahad Adnan, Akbar Zafar, and Umar Asif
 
 ## Inspiration
 
